@@ -1,4 +1,4 @@
-![React, Illustration](education.png)
+![React, Illustration](react.png)
 # # whoami
 
 > Saiharsha Balasubramaniam is a Computer Science undergrad student from India. A web developer, engineering student and an avid researcher. 🚀
