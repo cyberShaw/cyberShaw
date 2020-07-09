@@ -1,4 +1,7 @@
-|||![React, Illustration](https://github.com/cyberShaw/cyberShaw/blob/master/react.png)|||
+<p align="center">
+    <img src="react.png" width="300" />
+</p>
+
 # # whoami
 
 > Saiharsha Balasubramaniam is a Computer Science undergrad student from India. A web developer, engineering student and an avid researcher. 🚀
