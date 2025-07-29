@@ -8,7 +8,7 @@ I've worked at Flipkart and Oracle Cloud and have experience in building web int
 <a href="https://www.linkedin.com/in/saiharshab/">
   <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
 </a>
-<a href="https://twitter.com/saiharsha_b">
+<a href="https://x.com/cybershaw42">
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <a href="mailto:saibalsu@gmail.com">
@@ -22,12 +22,8 @@ I've worked at Flipkart and Oracle Cloud and have experience in building web int
 <br />
 
 ### Experience 🚀
-- **SDE Intern at [Flipkart](https://tech.flipkart.com/)** - As a part of the Discover UI team, I build highly scalable and performant user interfaces for Flipkart.
-- **Frontend Developer at WMD, Amrita** - Built the Anokha 2020 Web App as a part of the Web Team. This website served as the main portal for [Anokha](https://anokha.amrita.edu/), the annual tech fest of Amrita University.
-- **[Microsoft Learn Student Ambassador](https://studentambassadors.microsoft.com)** - Conducted workshops and talks on Web Development, APIs, Cloud, etc.
+- **Software Developer I at [Flipkart](https://tech.flipkart.com/)** - As a part of the Discover UI team, I worked on the iOS and Android apps, with a focus on the search interface.
+- **Software Developer II at [Oracle Cloud](https://www.oracle.com/in/cloud/)** - Worked on building Security Products for the OCI Console, focusing on products like [Cloud Guard](https://www.oracle.com/in/security/cloud-security/cloud-guard/) and [Security Zones](https://docs.oracle.com/iaas/security-zone/using/security-zones.htm).
 
-### GitHub Stats
-
-[![Harsha's github activity graph](https://activity-graph.herokuapp.com/graph?username=cyberShaw&theme=react-dark)](https://github.com/cyberShaw)
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=cybershaw" alt="cybershaw" /> </p>
