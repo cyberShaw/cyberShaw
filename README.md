@@ -11,7 +11,6 @@ I've worked at Flipkart and Oracle Cloud, with hands-on experience developing we
 [![Medium](https://img.shields.io/badge/Medium-000000?style=flat&logo=medium&logoColor=white)](https://medium.com/@cyberShaw)
 
 <br />
-<br />
 
 ### Experience 🚀
 - **Software Developer I at [Flipkart](https://tech.flipkart.com/)** - Part of the Discover UI team; worked on the iOS and Android apps with a focus on the search experience.
