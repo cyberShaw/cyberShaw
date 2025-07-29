@@ -1,7 +1,9 @@
 # Saiharsha Balasubramaniam
 
-Hey, I'm Saiharsha, a senior undergrad from Amrita University, Coimbatore. I'm a Computer Science student and work with Flipkart as an SDE Intern. ⚡ <br />
-I'm passionate about Web Development, and currently working with TypeScript and React Native.
+Hey, I'm Harsha, a CS major from Bengaluru, India. 
+
+I'm a web and full stack developer who is passionate about building performant web systems. ⚡ <br />
+I've worked at Flipkart and Oracle Cloud and have experience in building web interfaces for B2B and B2C customers. Ping me in one of the social links below, let's chat!
 
 <a href="https://www.linkedin.com/in/saiharshab/">
   <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
