@@ -5,18 +5,10 @@ Hey, I'm Harsha - a CS major from Bengaluru, India.
 I'm a web and full-stack developer passionate about building performant web systems. ⚡ <br />
 I've worked at Flipkart and Oracle Cloud, with hands-on experience developing web interfaces for B2B and B2C customers. Feel free to ping me using the social links below, let's chat!
 
-<a href="https://www.linkedin.com/in/saiharshab/">
-  <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
-</a>
-<a href="https://x.com/cybershaw42">
-  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-<a href="mailto:saibalsu@gmail.com">
-  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
-</a>
-<a href="https://medium.com/@cyberShaw">
-  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
-</a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/saiharshab/)
+[![Twitter/X](https://img.shields.io/badge/Twitter-1da1f2?style=flat&logo=twitter&logoColor=white)](https://x.com/cybershaw42)
+[![Gmail](https://img.shields.io/badge/Email-d14836?style=flat&logo=gmail&logoColor=white)](mailto:saibalsu@gmail.com)
+[![Medium](https://img.shields.io/badge/Medium-000000?style=flat&logo=medium&logoColor=white)](https://medium.com/@cyberShaw)
 
 <br />
 <br />
