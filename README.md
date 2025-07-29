@@ -1,9 +1,9 @@
 # Saiharsha Balasubramaniam
 
-Hey, I'm Harsha, a CS major from Bengaluru, India. 
+Hey, I'm Harsha - a CS major from Bengaluru, India. 
 
-I'm a web and full stack developer who is passionate about building performant web systems. ⚡ <br />
-I've worked at Flipkart and Oracle Cloud and have experience in building web interfaces for B2B and B2C customers. Ping me in one of the social links below, let's chat!
+I'm a web and full-stack developer passionate about building performant web systems. ⚡ <br />
+I've worked at Flipkart and Oracle Cloud, with hands-on experience developing web interfaces for B2B and B2C customers. Feel free to ping me using the social links below, let's chat!
 
 <a href="https://www.linkedin.com/in/saiharshab/">
   <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
@@ -22,8 +22,8 @@ I've worked at Flipkart and Oracle Cloud and have experience in building web int
 <br />
 
 ### Experience 🚀
-- **Software Developer I at [Flipkart](https://tech.flipkart.com/)** - As a part of the Discover UI team, I worked on the iOS and Android apps, with a focus on the search interface.
-- **Software Developer II at [Oracle Cloud](https://www.oracle.com/in/cloud/)** - Worked on building Security Products for the OCI Console, focusing on products like [Cloud Guard](https://www.oracle.com/in/security/cloud-security/cloud-guard/) and [Security Zones](https://docs.oracle.com/iaas/security-zone/using/security-zones.htm).
+- **Software Developer I at [Flipkart](https://tech.flipkart.com/)** - Part of the Discover UI team; worked on the iOS and Android apps with a focus on the search experience.
+- **Software Developer II at [Oracle Cloud](https://www.oracle.com/in/cloud/)** - Built Security Products for the OCI Console, focusing on products like [Cloud Guard](https://www.oracle.com/in/security/cloud-security/cloud-guard/) and [Security Zones](https://docs.oracle.com/iaas/security-zone/using/security-zones.htm).
 
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=cybershaw" alt="cybershaw" /> </p>
